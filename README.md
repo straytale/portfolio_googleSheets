@@ -1,5 +1,5 @@
-<img width="1240" height="616" alt="image" src="https://github.com/user-attachments/assets/4c470645-7f48-4d79-9d63-baf35978be40" /># 📒 交易紀錄統計
-### 副標題：資產配置，報酬率計算
+# 📒 資產配置
+### #交易紀錄統計、#報酬率計算
 
 這是一份 **Google 試算表**，用來紀錄投資交易，並自動統計你的資產配置與報酬率。  
 不用寫程式，填寫交易紀錄就能馬上看到完整的投資成果。
@@ -54,11 +54,9 @@
 ---
 
 ## 📊 範例截圖
-| 交易紀錄 | 統計資訊 |
-|----------|----------|
-| ![交易紀錄](<img width="1240" height="616" alt="image" src="https://github.com/user-attachments/assets/692e11bc-70c5-4183-ac95-524cf04eb2df" />
-) | ![統計資訊](<img width="895" height="439" alt="image" src="https://github.com/user-attachments/assets/baf30383-ca98-4954-95a3-3f5b809ec570" />
-) |
+<img width="1240" height="658" alt="image" src="https://github.com/user-attachments/assets/491b124e-27b0-4c36-8675-3abe335d2c69" />
+<img width="903" height="444" alt="image" src="https://github.com/user-attachments/assets/607d4eda-3882-42d4-9449-e2a62178ce36" />
+
 
 ---
 
